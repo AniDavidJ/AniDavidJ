@@ -3,7 +3,6 @@
 
 **I'm a Software Engineer, who loves to code! ** 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React, JavaScript, NodeJs.
 - 🌱 I’m currently learning on React, JavaScript, NodeJs.
