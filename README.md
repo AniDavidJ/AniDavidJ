@@ -1,16 +1,16 @@
-### Hi there, I'm Ani, I'm a Software Engineer, who loves to code! I'm currently learning React, JavaScript, NodeJs. I have experience with Swift, GCP. 👋
+### Hi there, I'm Ani,👋
 
 
-**AniDavidJ/AniDavidJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Software Engineer, who loves to code! ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on React, JavaScript, NodeJs.
+- 🌱 I’m currently learning on React, JavaScript, NodeJs.
+- I have experience in moblie application in swift, Google Apps(Gsuite).
+- 👯 I’m looking to collaborate with other passionate developers.
+- 🤔 I’m looking for help with explore more code..
+
+- 📫 How to reach me: anidavid07@gmail.com
+
 
