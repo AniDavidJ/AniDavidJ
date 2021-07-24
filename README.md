@@ -1,6 +1,6 @@
 ### Hi there, I'm Ani,👋
 
-I'm a Software Engineer, who loves to code! 
+<h2>I'm a Software Engineer, who loves to code! </h2>
 
 
 - 🌱 I’m currently learning on React, JavaScript, NodeJs.
