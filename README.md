@@ -12,8 +12,7 @@
 
 
 <h2>Languages and Tools </h2>
-![image](https://user-images.githubusercontent.com/72670037/126879208-d6e7a73d-5da4-4a3f-99a8-461bbb3c52f8.png)
-
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
 Visual Studio Code
 HTML5
 CSS3
