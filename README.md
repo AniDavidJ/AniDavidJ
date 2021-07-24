@@ -1,7 +1,7 @@
 ### Hi there, I'm Ani,👋
 
 
-**I'm a Software Engineer, who loves to code! ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Software Engineer, who loves to code! ** 
 
 Here are some ideas to get you started:
 
