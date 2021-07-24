@@ -12,6 +12,22 @@
 
 
 <h2>Languages and Tools </h2>
+Visual Studio Code
+HTML5
+CSS3
+npm
+Sass
+bootstap
+JavaScript
+React
+Node.js
+c#
+SQL
+firebase
+MongoDB
+Git
+GitHub
+unity
 
 
 
